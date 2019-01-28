@@ -5,10 +5,6 @@ BORDER="5000"
 arr=(
 	"Mystic Mystic mystic Mystic"
 	"MysticRPG MysticRPG mysticRPG MysticRPG"
-	"SandBox SandBox sandbox SandBox"
-	"Techno Techno techno Techno"
-	"TechnoMystic technomystic dream_technoMystic TechnoMystic"
-	"DraconicTech draconictech dream_draconic DraconicTech")
 count_serv=${#arr[@]}
 for (( i=0; i<${count_serv}; i++ ));
 do
