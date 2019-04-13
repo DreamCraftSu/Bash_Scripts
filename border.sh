@@ -1,7 +1,7 @@
 #!/bin/bash
 FOLDERS_SERVERS="/home/servers" #Путь до папки с серверами
 BORDER="5000"
-# Сервер || Паппка|| База || Screen
+# Сервер || Папка|| База || Screen
 arr=(
 	"Mystic Mystic mystic Mystic"
 	"MysticRPG MysticRPG mysticRPG MysticRPG"
